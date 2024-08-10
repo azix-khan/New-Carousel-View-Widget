@@ -1,15 +1,23 @@
 # new_carousel_view
 
-A new Flutter project.
+## CarouselView class
+A Material Design carousel widget.
+
+The CarouselView present a scrollable list of items, each of which can dynamically change size based on the chosen layout.
+
+This widget supports uncontained carousel layout. It shows items that scroll to the edge of the container, behaving similarly to a ListView where all children are a uniform size.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/4ddbafaa-30fd-4ebd-b26c-fc99d20ced4e">
+  <img width="300" src="https://github.com/user-attachments/assets/15ea8378-d8b9-41bd-bf64-9cbba417d083">
+  <img width="300" src="https://github.com/user-attachments/assets/05798767-b5d7-456d-b155-9f9e58010c78">
+</p>
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [CarouselView class Documentation](https://api.flutter.dev/flutter/material/CarouselView-class.html)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
